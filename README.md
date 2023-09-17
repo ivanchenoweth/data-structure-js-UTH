@@ -1,20 +1,23 @@
-# data-structure-js-UTH
-ASIGNATURA DE ESTRUCTURAS DE DATOS APLICADAS - UTH
+# Repositorio - data-structure-js-UTH
 
-# Estructura de las actividades
+Este repositorio es para ejemplificar la estructura de las actividades de la asignatura de:
 
-# Requerimientos
+ASIGNATURA DE ESTRUCTURAS DE DATOS APLICADAS, de la carrera de TIC de la UTH
+
+
+## Requerimientos
+Es necesario tener instalado en su Sistema operativo los siguientes paquetes:
 - git > v2
 - node > v18
 - npm, yarn, pnpm
 
-# Ejectuar instalacion:
+## Ejectuar instalacion, sobre el directorio del repositorio:
 pnpm install
 
-# Ejecutar todas las pruebas
+## Ejecutar todas las pruebas
 pnpm test
 
-# Ejecutar una sola prueba
+## Ejecutar una sola prueba
 pnpm test factorial.test
 
 # Notas:
@@ -24,6 +27,6 @@ pnpm test factorial.test
 
 > Por el momento, esta característica sólo está comenzando a ser implementada de forma nativa en los navegadores. Está implementada en muchos transpiladores, tales como Typescript y Babel, y en empaquetadores como Rollup y Webpack
 
-> ![https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/import](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/import)
+> [https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/import](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/import)
 
 
