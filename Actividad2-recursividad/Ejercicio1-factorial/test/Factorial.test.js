@@ -1,6 +1,12 @@
 import { factorial } from '../Factorial'
 
 describe('Factorial', () => {
+
+  beforeAll(() => {
+    console.log('Autor: Hecho por Ivan R. Chenoweth');
+    console.log('Descripcion: Pruebas para la Función para encontrar factorial usando recursividad');
+  })
+
   it('debe devolver el factorial 1 para el valor "0"', () => {
     expect(factorial(0)).toBe(1)
   })
