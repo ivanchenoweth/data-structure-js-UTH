@@ -4,14 +4,13 @@ Este repositorio es para ejemplificar la estructura de las actividades de la asi
 
 ASIGNATURA DE ESTRUCTURAS DE DATOS APLICADAS, de la carrera de TIC de la UTH
 
-
 ## Requerimientos
-Es necesario tener instalado en su Sistema operativo los siguientes paquetes:
+Es necesario tener instalado el sistema operativo los siguientes paquetes:
 - git > v2
 - node > v18
 - npm, yarn, ó pnpm
 
-## Ejectuar instalacion, sobre el directorio del repositorio:
+## Ejecutar la instalacion, sobre el directorio del repositorio:
 `pnpm install`
 
 ## Ejecutar todas las pruebas
