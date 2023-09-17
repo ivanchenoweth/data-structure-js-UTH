@@ -1,3 +1,3 @@
 # Ejecucion de Ejercicio1-factorial
 
-![Execution](https://github.com/ivanchenoweth/data-structure-js-UTH/blob/main/Actividad2-recursividad/Ejercicio1-factorial/Test-Factorial-ejecucion.jpg)
+![image](https://github.com/ivanchenoweth/data-structure-js-UTH/assets/284874/b2a36752-b9fb-43e5-9746-d49df7189fa8)
