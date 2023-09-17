@@ -9,7 +9,7 @@ ASIGNATURA DE ESTRUCTURAS DE DATOS APLICADAS, de la carrera de TIC de la UTH
 Es necesario tener instalado en su Sistema operativo los siguientes paquetes:
 - git > v2
 - node > v18
-- npm, yarn, pnpm
+- npm, yarn, ó pnpm
 
 ## Ejectuar instalacion, sobre el directorio del repositorio:
 `pnpm install`
