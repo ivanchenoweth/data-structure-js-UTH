@@ -5,7 +5,7 @@ Este repositorio es para ejemplificar la estructura de las actividades de la asi
 ASIGNATURA DE ESTRUCTURAS DE DATOS APLICADAS, de la carrera de TIC de la UTH
 
 ## Requerimientos
-Es necesario tener instalado el sistema operativo los siguientes paquetes:
+Es necesario tener instalado el sistema operativo los siguientes paquetes o usar codespaces para ejecutar en linea las pruebas:
 - git > v2
 - node > v18
 - npm, yarn, ó pnpm
